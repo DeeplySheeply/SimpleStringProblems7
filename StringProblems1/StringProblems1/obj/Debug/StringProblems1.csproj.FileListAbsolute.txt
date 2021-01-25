@@ -1,0 +1,10 @@
+C:\code\dotNet\StringProblems1\StringProblems1\bin\Debug\StringProblems1.exe.config
+C:\code\dotNet\StringProblems1\StringProblems1\bin\Debug\StringProblems1.exe
+C:\code\dotNet\StringProblems1\StringProblems1\bin\Debug\StringProblems1.pdb
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.csprojAssemblyReference.cache
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.FrmVowelCount.resources
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.Properties.Resources.resources
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.csproj.GenerateResource.cache
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.csproj.CoreCompileInputs.cache
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.exe
+C:\code\dotNet\StringProblems1\StringProblems1\obj\Debug\StringProblems1.pdb
